@@ -115,6 +115,9 @@ proxy-groups:
 
 # 规则
 rules:
+################# My local Rules ################
+DOMAIN-SUFFIX,nicehash.com,Proxy
+################# End local Rules ###############
 # (GlobalTV)
 # > ABC
 - DOMAIN-SUFFIX,edgedatg.com,GlobalTV
