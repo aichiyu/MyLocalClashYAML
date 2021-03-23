@@ -5,7 +5,7 @@
 #---------------------------------------------------#
 
 # HTTP 代理端口
-port: 7890 
+port: 7890
 
 # SOCKS5 代理端口
 socks-port: 7891 
@@ -115,10 +115,6 @@ proxy-groups:
 
 # 规则
 rules:
-################# My local Rules ################
-DOMAIN-SUFFIX,nicehash.com,Proxy
-DOMAIN-SUFFIX,storage.live.com,Domestic
-################# End local Rules ###############
 # (GlobalTV)
 # > ABC
 - DOMAIN-SUFFIX,edgedatg.com,GlobalTV
