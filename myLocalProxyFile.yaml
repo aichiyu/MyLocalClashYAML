@@ -581,7 +581,6 @@ rules:
 - DOMAIN-SUFFIX,joinmastodon.org,Proxy
 - DOMAIN-SUFFIX,kakao.com,Proxy
 - DOMAIN-SUFFIX,lihkg.com,Proxy
-- DOMAIN-SUFFIX,live.com,Proxy
 - DOMAIN-SUFFIX,mail.ru,Proxy
 - DOMAIN-SUFFIX,matters.news,Proxy
 - DOMAIN-SUFFIX,medium.com,Proxy
